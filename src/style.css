@@ -46,7 +46,6 @@ body{
 .card-item .card-photo{
   max-height: 100vh;
   object-fit: contain;
-  cursor: pointer;
 }
 .card-body{
   margin: 0;
@@ -86,7 +85,7 @@ font-size: 11px;
 }
 .card-body .card-description{
   font-size: 14px;
-  line-height: 15px;
+  line-height: 20px;
   margin-top: 0;
 }
 .divider{

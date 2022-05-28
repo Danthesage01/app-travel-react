@@ -46,6 +46,8 @@ body{
 .card-item .card-photo{
   max-height: 100vh;
   object-fit: contain;
+  border-radius: 5px;
+  cursor: pointer;
 }
 .card-body{
   margin: 0;

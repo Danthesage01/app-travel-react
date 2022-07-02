@@ -1,3 +1,3 @@
 # React travel app 
 
-Demo link: https://warm-strudel-fb29bf.netlify.app/
+# Demo link: https://app-travel.netlify.app/
